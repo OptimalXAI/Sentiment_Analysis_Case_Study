@@ -12,6 +12,7 @@ joblib
 json5
 jsonschema
 jupyter
+flask
 keras==2.9.0
 Keras-Preprocessing==1.1.2
 lxml
@@ -39,9 +40,7 @@ python-lsp-server==1.2.4
 pytz==2021.3
 PyWavelets
 regex
-scikit-image==0.18.3
-scikit-learn==1.0.2
-scikit-learn-intelex==2021.20210714.120553
+scikit-learn
 scipy
 seaborn
 shap
