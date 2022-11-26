@@ -14,11 +14,13 @@ pip install -r requirements.txt
 
 ## Usage of Project
 
-To productionize Sentiment Analyzer Classifier model with flask API
+Goto /sentimentanalysis directory
+
+Run below python file to productionize Sentiment Analyzer Classifier model with flask API
 ```python
 Python SentimentAnalyzerEngine.py
 ```
-To train Sentiment Analyzer Classifier model
+Run below python file to train Sentiment Analyzer Classifier model
 
 ```python
 Python main.py
