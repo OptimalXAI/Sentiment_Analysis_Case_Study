@@ -1,53 +1,49 @@
-beautifulsoup4 @ file:///tmp/build/80754af9/beautifulsoup4_1631874778482/work
+beautifulsoup4
 boto==2.49.0
-cloudpickle @ file:///tmp/build/80754af9/cloudpickle_1632508026186/work
+cloudpickle
 GitPython==3.1.27
-html5lib @ file:///Users/ktietz/demo/mc3/conda-bld/html5lib_1629144453894/work
-ipykernel @ file:///C:/ci/ipykernel_1633545585502/work/dist/ipykernel-6.4.1-py3-none-any.whl
-ipython @ file:///C:/ci/ipython_1635944283918/work
-ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
-Jinja2 @ file:///tmp/build/80754af9/jinja2_1612213139570/work
-jinja2-time @ file:///tmp/build/80754af9/jinja2-time_1617751524098/work
-joblib @ file:///tmp/build/80754af9/joblib_1635411271373/work
-json5 @ file:///tmp/build/80754af9/json5_1624432770122/work
-jsonschema @ file:///Users/ktietz/demo/mc3/conda-bld/jsonschema_1630511932244/work
-jupyter @ file:///C:/ci/jupyter_1607685287094/work
+html5lib
+ipykernel
+ipython
+ipython-genutils
+Jinja2
+jinja2-time
+joblib
+json5
+jsonschema
+jupyter
 keras==2.9.0
 Keras-Preprocessing==1.1.2
-lxml @ file:///C:/ci/lxml_1616443418777/work
-matplotlib @ file:///C:/ci/matplotlib-suite_1634667159685/work
-matplotlib-inline @ file:///tmp/build/80754af9/matplotlib-inline_1628242447089/work
+lxml
+matplotlib
+matplotlib-inline
 nltk==3.6.5
 num2words==0.5.10
-numba @ file:///C:/ci/numba_1635186062888/work
-numexpr @ file:///C:/ci/numexpr_1618856728739/work
-numpy @ file:///C:/ci/numpy_and_numpy_base_1626271900803/work
-numpydoc @ file:///tmp/build/80754af9/numpydoc_1605117425582/work
-pandas @ file:///C:/ci/pandas_1635506685681/work
+numba
+numexpr
+numpy
+numpydoc
+pandas
 pep8==1.7.1
-pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
+pickleshare
 Pillow==8.4.0
 plotly==5.8.2
 prettytable==3.3.0
 pytest==6.2.4
-python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+python-dateutil
 python-docx==0.8.11
 python-editor==1.0.4
-python-lsp-black @ file:///tmp/build/80754af9/python-lsp-black_1634232156041/work
+python-lsp-black
 python-lsp-jsonrpc==1.0.0
 python-lsp-server==1.2.4
-python-slugify @ file:///tmp/build/80754af9/python-slugify_1620405669636/work
 pytz==2021.3
-PyWavelets @ file:///C:/ci/pywavelets_1607645631519/work
-pywin32==227
-pywin32-ctypes @ file:///C:/ci/pywin32-ctypes_1607553594546/work
-
-regex @ file:///C:/ci/regex_1628063427816/work
+PyWavelets
+regex
 scikit-image==0.18.3
 scikit-learn==1.0.2
 scikit-learn-intelex==2021.20210714.120553
-scipy @ file:///C:/ci/scipy_1630606917240/work
-seaborn @ file:///tmp/build/80754af9/seaborn_1629307859561/work
-shap @ file:///D:/bld/shap_1642344113914/work
-snowballstemmer @ file:///tmp/build/80754af9/snowballstemmer_1611258885636/work
-wordcloud @ file:///D:/bld/wordcloud_1637007576973/work
+scipy
+seaborn
+shap
+snowballstemmer
+wordcloud
